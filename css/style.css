@@ -4,7 +4,9 @@ html, body {
 }
 
 #wrapper {
-	background: #5dd7f8;
+	background-image: url('../img/background.png');
+	background-size: cover;
+	background-position: center;
 	height: 100vh;
 	width: 100vw;
 }
