@@ -1,0 +1,24 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper {
+	background: #5dd7f8;
+	height: 100vh;
+	width: 100vw;
+}
+
+.logo {
+	padding: 16px;
+}
+
+.center {
+	text-align: center;
+}
+
+.square {
+	border: 8px solid #fff;
+	display: inline-block;
+	padding: 16px;
+}
